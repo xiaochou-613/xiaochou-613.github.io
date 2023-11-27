@@ -5,7 +5,7 @@ var user_name = document.getElementById("user-name")
 var user_password = document.getElementById("user-password")
 var happyy = document.getElementsByClassName("happy")[0]
 
-const MYNAME = "江开"
+const MYNAME = "？"
 const MYPAD = "020613"
 function login(){
     // 特殊
